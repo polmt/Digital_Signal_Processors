@@ -1,5 +1,7 @@
 .init g_ioport.p_api->init(g_ioport.p_cfg);
+
 Initializing the pins according to the settings and characteristics selected in the graphical environment.
+
 
 .pinCfg g_ioport.p_api->pinCfg(IOPORT_PORT_00_PIN_00,
 IOPORT_CFG_IRQ_ENABLE |
