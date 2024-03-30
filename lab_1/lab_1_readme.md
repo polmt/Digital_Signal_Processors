@@ -1,0 +1,1 @@
+Create a program that will turn on and off an LED light with a certain frequency. More specifically, you will create a program that will turn on an LED light and keep it in this state for one second. Then it will turn it off, also for one second. This process should be repeated as long as the microprocessor is operational.
